@@ -1,0 +1,10 @@
+{
+  "name": "apisandbox",
+  "version": "1.0.0",
+  "description": "Azure Functions Node.js app",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"No build step\""
+  },
+  "dependencies": {}
+}
